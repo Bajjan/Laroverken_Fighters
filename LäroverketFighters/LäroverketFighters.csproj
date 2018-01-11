@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8C33C375-555F-4118-BED4-007570A5E6EE}</ProjectGuid>
+    <ProjectGuid>{D2398BE2-23BE-4AAC-A506-814738279141}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>LäroverketFighters</RootNamespace>
     <AssemblyName>LäroverketFighters</AssemblyName>
