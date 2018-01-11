@@ -1,0 +1,7 @@
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\LäroverketFighters\obj\Debug\LäroverketFighters.csprojResolveAssemblyReference.cache
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\LäroverketFighters\obj\Debug\LäroverketFighters.csproj.CoreCompileInputs.cache
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\LäroverketFighters\bin\Debug\LäroverketFighters.exe.config
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\LäroverketFighters\bin\Debug\LäroverketFighters.exe
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\LäroverketFighters\bin\Debug\LäroverketFighters.pdb
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\LäroverketFighters\obj\Debug\LäroverketFighters.exe
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\LäroverketFighters\obj\Debug\LäroverketFighters.pdb
