@@ -1,0 +1,7 @@
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\For loops Csharpskolan\bin\Debug\For loops Csharpskolan.exe.config
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\For loops Csharpskolan\bin\Debug\For loops Csharpskolan.exe
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\For loops Csharpskolan\bin\Debug\For loops Csharpskolan.pdb
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\For loops Csharpskolan\obj\Debug\For loops Csharpskolan.csprojResolveAssemblyReference.cache
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\For loops Csharpskolan\obj\Debug\For loops Csharpskolan.csproj.CoreCompileInputs.cache
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\For loops Csharpskolan\obj\Debug\For loops Csharpskolan.exe
+C:\Users\FiTr0901\Desktop\GitHub\Laroverken_Fighters\For loops Csharpskolan\obj\Debug\For loops Csharpskolan.pdb
